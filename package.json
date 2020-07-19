@@ -1,0 +1,22 @@
+{
+  "name": "casadocodigo-alura",
+  "version": "1.0.0",
+  "description": "Livraria casa do codigo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoniomarcosls/casadocodigo-alura.git"
+  },
+  "author": "Antonio Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antoniomarcosls/casadocodigo-alura/issues"
+  },
+  "homepage": "https://github.com/Antoniomarcosls/casadocodigo-alura#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
